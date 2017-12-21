@@ -1,0 +1,19 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "description": "homework1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stigmat19/FD3-voytehov.git"
+  },
+  "author": "stigmat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stigmat19/FD3-voytehov/issues"
+  },
+  "homepage": "https://github.com/stigmat19/FD3-voytehov#readme"
+}
